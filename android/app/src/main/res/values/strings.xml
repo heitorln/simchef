@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sim Chefe</string>
+
+    <string name="facebook_app_id">413892517011872</string>
+
+    <string name="fb_login_protocol_scheme">fb413892517011872</string>
+
+</resources>
